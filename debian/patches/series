@@ -1,0 +1,3 @@
+cmake_with_ssl.patch
+use_cmake_package.patch
+disable-test-basic.patch
